@@ -1,0 +1,14 @@
+﻿---
+BasedOnStyle: Mozilla
+AllowShortBlocksOnASingleLine: "true"
+AllowShortIfStatementsOnASingleLine: AllIfsAndElse
+AllowShortLambdasOnASingleLine: All
+CompactNamespaces: "true"
+IndentWidth: "4"
+#AlignArrayOfStructures: Left
+AlignConsecutiveAssignments: AcrossComments
+AlignOperands: AlignAfterOperator
+BreakBeforeBraces: Custom
+BraceWrapping:
+  AfterClass: false
+  AfterFunction: false
